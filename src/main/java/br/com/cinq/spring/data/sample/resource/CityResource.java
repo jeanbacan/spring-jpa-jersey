@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/city")
 public class CityResource {
 
-	  @RequestMapping(path="/", method=RequestMethod.GET)
+	  @RequestMapping(method=RequestMethod.GET)
 	  public String getHello(){
-		  return "";
+		  return "City";
 	  }
 }

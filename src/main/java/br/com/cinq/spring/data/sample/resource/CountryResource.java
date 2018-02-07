@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/country")
 public class CountryResource {
 
-	  @RequestMapping(path="/", method=RequestMethod.GET)
+	  @RequestMapping(method=RequestMethod.GET)
 	  public String getHello(){
-		  return "";
+		  return "Country";
 	  }
 }

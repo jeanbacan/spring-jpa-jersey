@@ -1,5 +1,6 @@
 server:
     port: 8090
+    contextPath: /spring-jpa-jersey
 
 spring:
     jersey:

@@ -1,0 +1,9 @@
+2018-02-07 21:14:46,925 [main] INFO  b.c.c.s.d.s.application.Application - Starting Application on Desktop with PID 6136 (C:\Projects\spring-jpa-jersey\target\classes started by Pichau in C:\Projects\spring-jpa-jersey)
+2018-02-07 21:14:46,933 [main] INFO  b.c.c.s.d.s.application.Application - No active profile set, falling back to default profiles: default
+2018-02-07 21:14:52,354 [main] INFO  b.c.c.s.d.s.application.Application - Started Application in 5.876 seconds (JVM running for 9.983)
+2018-02-07 21:22:08,234 [main] INFO  b.c.c.s.d.s.application.Application - Starting Application on Desktop with PID 9168 (C:\Projects\spring-jpa-jersey\target\classes started by Pichau in C:\Projects\spring-jpa-jersey)
+2018-02-07 21:22:08,255 [main] INFO  b.c.c.s.d.s.application.Application - No active profile set, falling back to default profiles: default
+2018-02-07 21:22:13,921 [main] INFO  b.c.c.s.d.s.application.Application - Started Application in 6.091 seconds (JVM running for 10.616)
+2018-02-07 21:36:09,883 [main] INFO  b.c.c.s.data.sample.Application - Starting Application on Desktop with PID 3840 (C:\Projects\spring-jpa-jersey\target\classes started by Pichau in C:\Projects\spring-jpa-jersey)
+2018-02-07 21:36:09,986 [main] INFO  b.c.c.s.data.sample.Application - No active profile set, falling back to default profiles: default
+2018-02-07 21:36:14,942 [main] INFO  b.c.c.s.data.sample.Application - Started Application in 5.731 seconds (JVM running for 9.223)
